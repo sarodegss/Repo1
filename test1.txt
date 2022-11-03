@@ -1,10 +1,1 @@
- Volume in drive C has no label.
- Volume Serial Number is F684-8526
-
- Directory of C:\Users\sarod\OneDrive\Desktop\my_project
-
-04-11-2022  00:20    <DIR>          .
-04-11-2022  00:20    <DIR>          ..
-04-11-2022  00:20                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  42,158,436,352 bytes free
+changed
